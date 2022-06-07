@@ -110,6 +110,6 @@ function begin(){
     document.body.removeChild(t);
   }
   function copy() {
-    copyToClipboard('https://wade.pw/');
+    copyToClipboard('https://yoomin1122.github.io/bloodtypelove/');
     alert("클립보드에 복사되었습니다.");
   }
