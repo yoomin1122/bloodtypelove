@@ -100,7 +100,7 @@ function begin(){
 
 
 
-  /* 캡처 관련 명령어 */
+  /*  관련 명령어 */
   function copyToClipboard(val) {
     const t = document.createElement("textarea");
     document.body.appendChild(t);
