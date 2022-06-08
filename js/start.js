@@ -1,8 +1,8 @@
 const main = document.querySelector("#main");
 const qna = document.querySelector("#qna");
 const result = document.querySelector("#result")
-const endPoint = 4
-const select = [0, 0, 0, 0]
+const endPoint = 10
+const select = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 
 
 function calResult(){
@@ -110,6 +110,6 @@ function begin(){
     document.body.removeChild(t);
   }
   function copy() {
-    copyToClipboard('https://yoomin1122.github.io/bloodtypelove/');
+    copyToClipboard('https://wade.pw/');
     alert("클립보드에 복사되었습니다.");
   }
