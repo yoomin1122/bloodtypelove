@@ -96,11 +96,13 @@ function begin(){
 
 
 
+  function reload() {
+    (location || window.location || document.location).reload();
+}
 
 
 
-
-  /*  관련 명령어 */
+  /* 캡처 관련 명령어 */
   function copyToClipboard(val) {
     const t = document.createElement("textarea");
     document.body.appendChild(t);
@@ -110,6 +112,6 @@ function begin(){
     document.body.removeChild(t);
   }
   function copy() {
-    copyToClipboard('https://wade.pw/');
+    copyToClipboard('https://yoomin1122.github.io/bloodtypelove/');
     alert("클립보드에 복사되었습니다.");
   }
