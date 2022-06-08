@@ -1,12 +1,3 @@
-/*
-    {name:'A', value:0, key:0},
-    {name:'B', value:0, key:1},
-    {name:'AB', value:0, key:2}
-    {name:'O', value:0, key:3},
-*/
-
-
-
 const qnaList = [
     {
         q: '1. 자신의 성격이 어떤 것에 가깝다고 생각하나요?',
