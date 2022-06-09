@@ -11,6 +11,10 @@ p {
 h1 {
     font-size: 60px;
 }
+.ads {
+    width: 220px;
+    margin : 0 auto;
+}
 @media (max-width: 768px) {
     h1 { 
     font-size: 30px; 
@@ -18,9 +22,10 @@ h1 {
     p {
         font-size: 17px;
     }
+    .ads {
+        width: 100px;
+        margin : 0 auto;
+    }
 }
 
 
-.ads {
-    width: 220px;
-}
