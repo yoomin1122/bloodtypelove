@@ -5,22 +5,22 @@
     border-radius: 30px;
     margin : 10px;
 }
-@media only screen and (max-width: 320px) {
-    h1 { 
-    font-size: 30px; 
-    }
-    p {
-        font-size: 12px;
-    }
-    }
-
 p {
     font-size: 22px;
 }
 h1 {
     font-size: 60px;
 }
+@media (max-width: 768px) {
+    h1 { 
+    font-size: 30px; 
+    }
+    p {
+        font-size: 17px;
+    }
+}
+
 
 .ads {
-    width: 320px;
+    width: 220px;
 }
