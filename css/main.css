@@ -38,14 +38,10 @@
                 <br></br>
 
                 <div class="ads">
-                    <ins class="kakao_ad_area" style="display:none;" 
+                    <ins class="kakao_ad_area" 
                     data-ad-unit    = "DAN-KC0IOHnEwu8HrWt3" 
                     data-ad-width   = "220" 
-                    data-ad-height  = "100"></ins> 
-                    <ins class="kakao_ad_area" style="display:none;" 
-                    data-ad-unit    = "DAN-KC0IOHnEwu8HrWt3" 
-                    data-ad-width   = "220" 
-                    data-ad-height  = "100"></ins> 
+                    data-ad-height  = "100"></ins>
                 </div>
 
             <script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
