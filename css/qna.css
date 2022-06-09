@@ -9,13 +9,20 @@
     font-size : 50px;
     color : #EAEAEA;
 }
-
+@media (max-width: 768px) {
+    .qBox { 
+    font-size: 30px; 
+    }
+    .answerList {
+        font-size: 17px;
+    }
+}
 .answerList{
     background-color: plum;
     border-radius: 20px;
     display: block;
     width: 100%;
-    font-size : 20px;
+    font-size : 22px;
     width: 70%;
 }
 
