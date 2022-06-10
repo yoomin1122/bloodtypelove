@@ -115,3 +115,7 @@ function begin(){
     copyToClipboard('https://yoomin1122.github.io/bloodtypelove/');
     alert("클립보드에 복사되었습니다.");
   }
+
+  function img_capture() {
+    alert("현재 이 기능은 준비중입니다");
+  }
